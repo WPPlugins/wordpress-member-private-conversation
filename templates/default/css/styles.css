@@ -1,0 +1,277 @@
+/*
+Stylesheet for default template
+Author: Najeeb
+Plugin: Nmedia Member Private Conversation Plugin
+*/
+
+
+
+#convo-wrapper
+{
+	margin:0 auto;
+	padding:5px;
+	width:100%;
+	font-family: arial,sans-serif;
+}
+
+#convo-wrapper A
+{
+	text-decoration:none;
+	color:#333;
+	font-size:12px;
+}
+
+
+/*hiding panels */
+#compose-panel,#convo-history-panel{display:none;}
+
+/* convo container */
+#nm-convo-container
+{
+	border:#ccc 1px solid;
+	clear:both;
+}
+
+#nm-convo-container ul, ul#nm-convo-top, ul#nm-convo-bottom
+{
+	list-style:none;
+	margin:0;
+	padding:0;
+	font-size:13px;
+}
+
+ul#nm-convo-top li ul, ul#nm-convo-bottom li ul
+{
+	cursor:auto;
+	border:none;
+	list-style:none;
+	margin:0;
+	padding:0;
+	clear:left;	
+}
+
+
+ul#nm-convo-top li ul li, ul#nm-convo-bottom li ul li
+{
+	padding:3px;
+	float:left;
+}
+
+
+#nm-convo-container ul li
+{
+	border-bottom:#CCC 1px solid;
+	cursor:pointer;	
+}
+
+#nm-convo-container ul li ul.convo-row
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+	clear:left;	
+	/*display:none;*/
+}
+
+
+
+#nm-convo-container ul li ul.convo-row li
+{
+	padding:3px;
+	float:left;
+	border-bottom:none;
+}
+
+#nm-convo-container ul li ul.convo-row li.check{width:3%}
+#nm-convo-container ul li ul.convo-row li.buddies{width:20%;}
+#nm-convo-container ul li ul.convo-row li.unread{background-color:#F0F0F0;}
+#nm-convo-container ul li ul.convo-row li.title{width:50%; font-size:12px}
+#nm-convo-container ul li ul.convo-row li.time{width:20%; float:right; text-align:right}
+
+ul#nm-convo-top li ul li.sorts{float:right; text-align:right}
+
+ul#nm-convo-bottom li ul li#prev-page{float:left; width:20%}
+ul#nm-convo-bottom li ul li#page-count{float:left; text-align:center; width:55%}
+ul#nm-convo-bottom li ul li#next-page{float:right; text-align:right; width:20%}
+
+
+
+/* pagination */
+/*.nm-convo-pagi ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+	clear:left;
+}*/
+
+
+/*Left side*/
+#convo-wrapper #left-area
+{
+	width:20%;
+	float:left;
+	padding-top:10px;
+}
+
+
+#left-area ul
+{
+	margin:0;
+	padding:0;
+}
+
+#left-area ul li
+{
+	list-style:none;
+	padding-left: 10px;
+}
+
+#left-area ul li.heading
+{
+	font-size:16px;
+	font-weight:bold;
+	margin-bottom:10px;
+	/*background-image: url(images/compose.png);
+	background-repeat: no-repeat;
+	background-position: 0;*/
+}
+
+#left-area ul li#compose
+{
+	
+	background-image: url(../images/compose.png);
+	background-repeat: no-repeat;
+	background-position: 0;
+	border-bottom:#CCC 1px dashed;
+}
+#left-area ul li#inbox
+{
+	
+	background-image: url(../images/inbox.png);
+	background-repeat: no-repeat;
+	background-position: 0;
+	border-bottom:#CCC 1px dashed;
+}
+#left-area ul li#sent
+{
+	
+	background-image: url(../images/sent.png);
+	background-repeat: no-repeat;
+	background-position: 0;
+	border-bottom:#CCC 1px dashed;
+}
+
+#left-area ul li a
+{
+	font-size:14px;
+	color:#333;
+	text-decoration:none;
+	padding:10px;
+}
+
+#left-area ul li:hover
+{
+	padding-left:20px;
+}
+/*Left side*/
+
+
+
+
+/*Right side*/
+#convo-wrapper #right-area
+{
+	width:78%;
+	float:right;
+	padding-top:10px;
+}
+
+#right-area h2
+{
+	padding:0;
+	margin:0;
+	margin-bottom:10px;
+}
+
+
+a.back-to-convo
+{
+	text-decoration:underline;
+}
+	
+/*Right side*/
+
+
+/* Convo Detail */
+ul.nm-convo-detail
+{
+	margin:0;
+	padding:0;
+}
+
+ul.nm-convo-detail li
+{
+	list-style:none;
+}
+
+ul.nm-convo-detail li.convo-head
+{
+	font-weight:bold;
+	border-bottom:#CCC 1px dashed;
+}
+
+ul.nm-convo-detail li.convo-text
+{
+	margin-bottom:14px;
+}
+
+
+ul.nm-convo-detail li.convo-attachment
+{
+	color:#666;
+	font-style:italic;
+	margin-bottom:25px;
+}
+/* Convo Detail */
+
+/* unread convo */
+.nm-unread-alert
+{
+	padding:10px;
+	clear:both;
+	border:#CF3 1px dashed;
+	background-color:#FF9;
+}
+/* unread convo */
+
+/* notifications */
+.nm-notification 
+{
+	padding:10px;
+	clear:both;
+	border:#CF3 1px dashed;
+	background-color:#FF9;
+}
+/* unread convo */
+
+
+.fix_height{clear:both;}
+
+
+.red
+{
+	background-color:#F00;
+	color:#fff;
+	border:#999 1px dashed;
+	padding:5px;
+}
+
+.error
+{
+	color:#F00;
+	display:none;
+	font-style:italic;
+	font-size:11px;
+}
+

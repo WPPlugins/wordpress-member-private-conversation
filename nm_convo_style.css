@@ -1,0 +1,96 @@
+/* CSS Document */
+.nm_help
+{
+	font-size:10px;
+	font-style:italic;
+}
+
+
+/* ============= Email subscriptbox ============== */
+#fileNames ul
+{
+	list-style:none;
+	margin:10px 0 0 0;
+	padding:0;
+}
+
+#fileNames ul li
+{
+	float:left;
+	margin-right:10px;
+	border:#CCC 1px solid;
+	width:400px;
+}
+
+#fileNames ul li img
+{
+	width:75px;
+	height:75px;
+}
+
+#fileNames ul li .imgName
+{
+	font-size:11px;
+	color:#999;
+	clear:both;
+}
+
+#nm_progressbar{
+	width:400px;
+	height:30px;
+	background-color:#CCC;
+}
+
+#nm_progressbar #runner{
+	width:0px;
+	height:30px;
+	background-color:#F7B64C;
+}
+
+
+/* 
+	Web20 Table Style
+	written by Netway Media, http://www.netway-media.com
+*/
+
+table#user-files
+{
+  border-collapse: collapse;
+  border: 1px solid #666666;
+  font: normal 11px verdana, arial, helvetica, sans-serif;
+  background: #f6f6f6;
+  text-align:left;
+  width:100%;
+ 
+}
+
+table#user-files thead
+{
+	background-color:#999;
+	line-height:25px;
+	color:#00F;
+}
+
+
+.green
+{
+	background-color:#3C3;
+	color:#333;
+	border:#999 1px dashed;
+	padding:5px;
+}
+
+.red
+{
+	background-color:#F00;
+	color:#fff;
+	border:#999 1px dashed;
+	padding:5px;
+}
+
+.option-box
+{
+	background-color:#999;
+	border:#666 1px dashed;
+	padding:10px;
+}

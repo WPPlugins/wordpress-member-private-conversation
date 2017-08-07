@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Najeeb <ceo@najeebmedia.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: 1.6/nm_convo.php:1
+msgid " attached successfully"
+msgstr ""
+
+#. Text in function
+#: 1.6/load-convo-detail.php:51
+msgid " wrote on "
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:132
+msgid "Attach file"
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:160
+msgid "Back to Conversations"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Conversations Limit"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Convo Delete Conversation"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Convo Sent Conversation"
+msgstr ""
+
+#. Text in echo
+#: 1.6/listings-all.php:19
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:38
+msgid "Deleted selected"
+msgstr ""
+
+#. Text in echo
+#: 1.6/listings-all.php:18
+msgid "Detail"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Dialog Messages"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Email Notification Settings"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "How many conversations do you want to list on a page/view"
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:18
+#: 1.6/_template_convo.php:31
+msgid "Inbox"
+msgstr ""
+
+#. Text in function
+#: 1.6/_template_convo.php:26
+msgid "Inbox is empty"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "It will be append to each message sent to user"
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:118
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Message Body"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Message Footer"
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:166
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:109
+#: 1.6/_template_convo.php:115
+#: 1.6/_template_convo.php:121
+#: 1.6/_template_convo.php:171
+msgid "Required"
+msgstr ""
+
+#. Text in echo
+#: 1.6/convo-plugin-options.php:305
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: 1.6/convo-plugin-options.php:291
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:148
+#: 1.6/_template_convo.php:186
+msgid "Send"
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:106
+msgid "Sent to"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Settings reset."
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Settings saved."
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:20
+msgid "Start Convo"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+#: 1.6/_template_convo.php:112
+#: 1.6/listings-all.php:16
+msgid "Subject"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "This message will be sent to user on when his message will be replied by other user"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "This message will be sent to user on when new conversation is started. User shortcodes e.g:<br /"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "This subject will be used when message will be replied. User shortcodes e.g:<br /"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "This subject will be used when new conversation is started"
+msgstr ""
+
+#. Text in echo
+#: 1.6/listings-all.php:11
+msgid "Total Conversations"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Type a message here, it will be shown when user delete conversation(s). <br />e.g: Conversation(s) deleted successfully"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Type a message here, it will be shown when user type invalid username. <br />e.g: User not found"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Type a message here, it will be shown when user will send/reply  conversation. <br />e.g: Conversation is sent successfully"
+msgstr ""
+
+#. Text in echo
+#: 1.6/listings-all.php:9
+msgid "User Conversations Statistics"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "User does not Exist Message"
+msgstr ""
+
+#. Text in echo
+#: 1.6/listings-all.php:17
+msgid "Users"
+msgstr ""
+
+#. Text in function
+#: 1.6/convo-plugin-options.php:312
+msgid "Widgets reset."
+msgstr ""
+
+#. Text in echo
+#: 1.6/_template_convo.php:101
+msgid "Write New Message"
+msgstr ""
+
+#. Text in echo
+#: 1.6/convo-plugin-options.php:221
+#: 1.6/convo-plugin-options.php:249
+#: 1.6/convo-plugin-options.php:282
+msgid "desc"
+msgstr ""
+
+#. Text in echo
+#: 1.6/convo-plugin-options.php:277
+#: 1.6/convo-plugin-options.php:291
+msgid "name"
+msgstr ""
+
+#. Text in echo
+#: class.convo.php:589
+msgid " unread conversations"
+msgstr ""
+
+#. Text in echo
+#: class.convo.php:587
+msgid "You have "
+msgstr ""
+
